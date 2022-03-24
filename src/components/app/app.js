@@ -7,7 +7,6 @@ import ItemStatusFilter from '../item-status-filter';
 import TodoAdd from '../todo-add';
 import './app.css';
 
-
 class App extends React.Component {
 
   state = {
